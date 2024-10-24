@@ -2,7 +2,7 @@ Installation:
 
 Ensure you have tModLoader installed with Terraria.
 
-Download the mod files from the Releases page.
+Download the mod files (Weapons).
 
 Place the mod files in your tModLoader Mods folder.
 
